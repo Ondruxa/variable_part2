@@ -9,8 +9,8 @@ public class Main {
         double varDouble = 788.7899543566;
         System.out.println("Значение переменной varInt с типом int равно " +varInt);
         System.out.println("Значение переменной varByte с типом byte равно " +varByte);
-        System.out.println("Значение переменной varLong с типом short равно " +varLong);
-        System.out.println("Значение переменной varShort с типом long равно " +varShort);
+        System.out.println("Значение переменной varLong с типом long равно " +varLong);
+        System.out.println("Значение переменной varShort с типом short равно " +varShort);
         System.out.println("Значение переменной varFloat с типом float равно " +varFloat);
         System.out.println("Значение переменной varDouble с типом double равно " +varDouble);
         System.out.println();
